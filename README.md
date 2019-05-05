@@ -18,7 +18,7 @@ $ npm run package
 
 ```
 
-# 二、打包概要
+# 二、打包概要123
 - 执行`$ npm run package`后，会生成两个文件夹，我们选取`HelloWorld-win32-x64`作为打安装包文件。
 - 目录为`\outApp\HelloWorld-win32-x64`
 
